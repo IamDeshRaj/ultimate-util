@@ -1,8 +1,8 @@
-package org.open.java.util;
+package org.open.util.array;
 
 import java.util.Map;
 
-public class MapArrayUtil<K, V> {
+public class ArrayMapUtil<K, V> {
 
 	public void getArrayIndexValuePair(Map<Integer, V> map, V array[]) {
 		for (int i = 0; i < array.length; i++) {
