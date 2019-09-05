@@ -1,4 +1,4 @@
-package org.open.util.array;
+package com.mypleaks.util.array;
 
 import java.util.Map;
 
